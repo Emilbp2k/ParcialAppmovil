@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ParcialAppmovil</string>
+    <string name="nombre_de_pelicula">Nombre de Pelicula</string>
+    <string name="director">Director</string>
+    <string name="idioma">Idioma</string>
+    <string name="ingles">Ingles</string>
+    <string name="espa_ol">Español</string>
+    <string name="genero">Genero</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="listado">Listado</string>
+    <string name="mayusucula">Mayusucula</string>
+    <string name="minuscula">Minuscula</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/Lista"
+        android:orderInCategory="100"
+        android:title="@string/listado"
+        app:showAsAction="never" />
+   <!-- <item
+        android:id="@+id/mayuscula"
+        android:orderInCategory="100"
+        android:title="@string/mayusucula"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Minuscula"
+        android:orderInCategory="100"
+        android:title="@string/minuscula"
+        app:showAsAction="never"
+        />-->
+</menu>

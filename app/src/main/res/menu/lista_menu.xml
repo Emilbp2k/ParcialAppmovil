@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/ordenGen"
+        android:orderInCategory="100"
+        android:title="Ordenar por genero"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/alfabe"
+        android:orderInCategory="10"
+        android:title="Ordernar A-Z por nombre"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/invertir"
+        android:orderInCategory="100"
+        android:title="Invertir la lista"
+        app:showAsAction="never"
+        />
+
+
+    <item
+        android:id="@+id/Borrar"
+        android:orderInCategory="100"
+        android:title="Borrar la primera"
+        app:showAsAction="never"
+        />
+</menu>
